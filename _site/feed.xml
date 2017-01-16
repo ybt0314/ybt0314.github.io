@@ -6,9 +6,46 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Jan 2017 23:21:54 +0900</pubDate>
-    <lastBuildDate>Mon, 16 Jan 2017 23:21:54 +0900</lastBuildDate>
+    <pubDate>Tue, 17 Jan 2017 00:26:30 +0900</pubDate>
+    <lastBuildDate>Tue, 17 Jan 2017 00:26:30 +0900</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Hello World Jekyll!</title>
+        <description>&lt;h1 id=&quot;안녕하세요&quot;&gt;안녕하세요.&lt;/h1&gt;
+
+&lt;p&gt;지킬로 첨 만들어보네요.&lt;/p&gt;
+
+&lt;p&gt;완전 신기방기 ㅋㅋㅋㅋ&lt;/p&gt;
+
+&lt;h2 id=&quot;2017년은-좋은-일들만-가득하길-빌겠습니다-&quot;&gt;2017년은 좋은 일들만 가득하길 빌겠습니다. ^^&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;이건 뭘 어떻게 하는건지 .. 차근차근 공부해야겠네요 ㅎㅎ&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;ㅋㅋㅋㅋㅋㅋㅋ&quot;&gt;ㅋㅋㅋㅋㅋㅋㅋ&lt;/h3&gt;
+
+&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// Test.java&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Test&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;String&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;args&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;out&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;2017년도 화이팅 ㅋㅋ&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 17 Jan 2017 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/jekyll/2017/01/17/helloWorld.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/2017/01/17/helloWorld.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
     
       <item>
         <title>Styles at a glance</title>
